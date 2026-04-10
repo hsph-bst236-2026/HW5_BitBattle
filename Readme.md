@@ -15,7 +15,6 @@
 | 7 | 404-brain-not-found | 1e-13 | 0.7045 |
 | 8 | ele_aaa | 9e-9 | 0.0498 |
 | 9 | git-er-done | 2e-7 | 0.1400 |
-| 10 | ctrl-alt-elite | 4e-3 | 0.0000 |
 
 
 ## Solutions
